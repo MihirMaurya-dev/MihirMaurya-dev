@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,19,20&height=200&section=header&text=Hi%2C%20I'm%20Mihir%20Maurya%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Backend%20Developer%20%7C%20Infrastructure%20Automation&descAlignY=58&descSize=16" width="100%"/>
+![header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2196F3&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Backend+Developer+%7C+PHP+8.x+%2B+MySQL;Infrastructure+Automation+%7C+Azure+%2B+Terraform;Bridging+Theory+%26+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -183,6 +183,6 @@ Configured and deployed enterprise DNS for **`b18g119.online`**.
 
 *"I don't just follow the syllabus — I bridge theoretical math with production infrastructure."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,19,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
