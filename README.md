@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="./banner.jpg" width="100%" alt="Mihir Maurya - Cloud & DevOps Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2196F3&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Backend+Developer+%7C+PHP+8.x+%2B+MySQL;Infrastructure+Automation+%7C+Azure+%2B+Terraform;Bridging+Theory+%26+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -194,6 +194,6 @@ Configured and deployed enterprise DNS for **`b18g119.online`**.
 
 *"I don't just follow the syllabus — I bridge theoretical math with production infrastructure."*
 
-![footer](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="./banner.jpg" width="100%" alt="footer"/>
 
 </div>
