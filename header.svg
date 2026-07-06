@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="120">
+  <style>
+    /*
+      24-hour color cycle. Total = 86400s.
+      Current time offset = 14h 35m = 52500s → animation-delay: -52500s
+      So the animation "starts" visually at 14:35 (afternoon) and cycles forward.
+
+      Time-of-day color map:
+        0%   = 00:00  midnight  — deep dark indigo
+        12%  = 03:00  late night — dark blue-black
+        21%  = 05:00  pre-dawn  — dark teal-blue
+        29%  = 07:00  sunrise   — warm orange / amber
+        38%  = 09:00  morning   — sky blue / cyan
+        50%  = 12:00  noon      — bright vivid blue
+        60%  = 14:30  afternoon — electric blue / teal  ← you are here
+        67%  = 16:00  late arvo — golden cyan
+        75%  = 18:00  sunset    — deep orange / magenta
+        83%  = 20:00  dusk      — violet / deep purple
+        92%  = 22:00  night     — dark blue / purple
+        100% = 24:00  midnight  — back to start
+    */
+
+    .bg {
+      animation: bgCycle 86400s linear -52500s infinite;
+    }
+    .wave-back {
+      animation: backCycle 86400s linear -52500s infinite;
+    }
+    .wave-mid {
+      animation: midCycle 86400s linear -52500s infinite;
+    }
+    .wave-front {
+      animation: frontCycle 86400s linear -52500s infinite;
+    }
+    .wave-path-back {
+      animation: waveMoveBack 10s ease-in-out infinite, backCycle 86400s linear -52500s infinite;
+    }
+    .wave-path-mid {
+      animation: waveMoveMid 7s ease-in-out infinite, midCycle 86400s linear -52500s infinite;
+    }
+    .wave-path-front {
+      animation: waveMoveFront 5s ease-in-out infinite, frontCycle 86400s linear -52500s infinite;
+    }
+
+    @keyframes bgCycle {
+      0%,100% { fill: #080820; }
+      12%     { fill: #050516; }
+      21%     { fill: #0a1628; }
+      29%     { fill: #1a0a00; }
+      38%     { fill: #001a2e; }
+      50%     { fill: #001040; }
+      60%     { fill: #0d1117; }
+      67%     { fill: #0a1a10; }
+      75%     { fill: #1a0500; }
+      83%     { fill: #0d0520; }
+      92%     { fill: #08081a; }
+    }
+
+    @keyframes frontCycle {
+      0%,100% { fill: #1a0533; opacity: 0.9; }
+      12%     { fill: #0d0f4d; opacity: 0.9; }
+      21%     { fill: #0a3d62; opacity: 0.85; }
+      29%     { fill: #FF6B35; opacity: 0.9; }
+      38%     { fill: #29B6F6; opacity: 0.9; }
+      50%     { fill: #00E5FF; opacity: 0.9; }
+      60%     { fill: #2196F3; opacity: 0.9; }
+      67%     { fill: #00BFA5; opacity: 0.9; }
+      75%     { fill: #FF7043; opacity: 0.9; }
+      83%     { fill: #7C3AED; opacity: 0.9; }
+      92%     { fill: #3949AB; opacity: 0.9; }
+    }
+
+    @keyframes midCycle {
+      0%,100% { fill: #0d0221; opacity: 0.55; }
+      12%     { fill: #12124a; opacity: 0.55; }
+      21%     { fill: #003366; opacity: 0.5;  }
+      29%     { fill: #E91E63; opacity: 0.55; }
+      38%     { fill: #00BCD4; opacity: 0.55; }
+      50%     { fill: #2196F3; opacity: 0.55; }
+      60%     { fill: #00ACC1; opacity: 0.55; }
+      67%     { fill: #1DE9B6; opacity: 0.5;  }
+      75%     { fill: #E91E63; opacity: 0.55; }
+      83%     { fill: #4527A0; opacity: 0.55; }
+      92%     { fill: #1565C0; opacity: 0.55; }
+    }
+
+    @keyframes backCycle {
+      0%,100% { fill: #120840; opacity: 0.35; }
+      12%     { fill: #0a0a40; opacity: 0.35; }
+      21%     { fill: #00264d; opacity: 0.3;  }
+      29%     { fill: #FF8F00; opacity: 0.4;  }
+      38%     { fill: #B3E5FC; opacity: 0.35; }
+      50%     { fill: #81D4FA; opacity: 0.35; }
+      60%     { fill: #00BCD4; opacity: 0.35; }
+      67%     { fill: #A7FFEB; opacity: 0.3;  }
+      75%     { fill: #FF6B35; opacity: 0.4;  }
+      83%     { fill: #CE93D8; opacity: 0.35; }
+      92%     { fill: #7986CB; opacity: 0.35; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="1200" height="120"/>
+
+  <!-- Wave layer 3 (back) -->
+  <path class="wave-path-back"
+    d="M0,60 C300,110 600,20 900,80 C1050,110 1150,50 1200,60 L1200,120 L0,120 Z">
+    <animate attributeName="d"
+      values="
+        M0,60 C300,110 600,20 900,80 C1050,110 1150,50 1200,60 L1200,120 L0,120 Z;
+        M0,80 C300,20  600,100 900,30 C1050,0   1150,90 1200,50 L1200,120 L0,120 Z;
+        M0,50 C300,90  600,10  900,70 C1050,100 1150,30 1200,80 L1200,120 L0,120 Z;
+        M0,60 C300,110 600,20 900,80 C1050,110 1150,50 1200,60 L1200,120 L0,120 Z
+      "
+      dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 2 (middle) -->
+  <path class="wave-path-mid"
+    d="M0,75 C200,30 500,100 700,50 C900,10 1100,80 1200,45 L1200,120 L0,120 Z">
+    <animate attributeName="d"
+      values="
+        M0,75 C200,30  500,100 700,50 C900,10  1100,80 1200,45 L1200,120 L0,120 Z;
+        M0,45 C200,100 500,20  700,80 C900,110 1100,20 1200,70 L1200,120 L0,120 Z;
+        M0,65 C200,10  500,90  700,30 C900,0   1100,70 1200,35 L1200,120 L0,120 Z;
+        M0,75 C200,30  500,100 700,50 C900,10  1100,80 1200,45 L1200,120 L0,120 Z
+      "
+      dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 1 (front) -->
+  <path class="wave-path-front"
+    d="M0,85 C150,50 400,110 600,70 C800,30 1050,95 1200,65 L1200,120 L0,120 Z">
+    <animate attributeName="d"
+      values="
+        M0,85 C150,50  400,110 600,70 C800,30  1050,95 1200,65 L1200,120 L0,120 Z;
+        M0,65 C150,100 400,40  600,90 C800,120 1050,55 1200,90 L1200,120 L0,120 Z;
+        M0,90 C150,60  400,100 600,50 C800,20  1050,85 1200,55 L1200,120 L0,120 Z;
+        M0,85 C150,50  400,110 600,70 C800,30  1050,95 1200,65 L1200,120 L0,120 Z
+      "
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+
+</svg>
