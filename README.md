@@ -163,24 +163,16 @@ Configured and deployed enterprise DNS for **`b18g119.online`**.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MihirMaurya-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MihirMaurya-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MihirMaurya-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6B6B&currStreakLabel=2196F3)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=MihirMaurya-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Repos](https://img.shields.io/badge/Public_Repos-4-2196F3?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-0-2196F3?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars_Given-1-2196F3?style=for-the-badge&logo=github&logoColor=white)
+![Location](https://img.shields.io/badge/Based_In-India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
