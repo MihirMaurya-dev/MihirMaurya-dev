@@ -9,7 +9,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-b18g119.online-00C896?style=flat-square&logo=googlechrome&logoColor=white)](https://b18g119.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir_Maurya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir_Maurya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![GitHub](https://img.shields.io/badge/GitHub-MihirMaurya--dev-181717?style=flat-square&logo=github)](https://github.com/MihirMaurya-dev)
 [![DevOps Notes](https://img.shields.io/badge/DevOps_Notes-Vault-7B42BC?style=flat-square&logo=obsidian&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
 [![Instagram](https://img.shields.io/badge/Instagram-@mihirmauryaa-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mihirmauryaa/)
