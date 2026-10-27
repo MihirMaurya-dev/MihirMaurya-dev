@@ -99,13 +99,13 @@ flowchart TD
 
 ## 🚀 Featured Enterprise Projects
 
-### 1. 🕸️ [`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/Azure-Infra-Landing-Zone)
+### 1. 🕸️ [`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
 Production-grade, multi-environment Hub-and-Spoke networking framework for Microsoft Azure deployed via modular Terraform.
 * **Architecture:** Deploys a central **Hub VNet** (hosting Azure VPN Gateway, Key Vault, and shared egress) interconnected with isolated **Spoke VNets** (`Dev`, `Prod`) via bidirectional VNet Peering with dynamic subnet generators (`for_each`).
 * **DevSecOps Simulation:** Built with a custom PowerShell CI/CD execution harness enforcing static security scanning (`checkov`), strict format validation (`terraform fmt`), and plan artifact locking before execution.
 * **State Isolation:** Decoupled remote state backends for each environment to eliminate blast radiuses and prevent concurrent deployment state locks.
 
-[**Explore Hub-Spoke Codebase →**](https://github.com/MihirMaurya-dev/Azure-Infra-Landing-Zone) · [**Hub Deployment**](https://github.com/MihirMaurya-dev/Azure-Infra-Landing-Zone) · [**Network Modules**](https://github.com/MihirMaurya-dev/Azure-Infra-Landing-Zone) · [**Pipeline Harness**](https://github.com/MihirMaurya-dev/Azure-Infra-Landing-Zone)
+[**Explore Hub-Spoke Codebase →**](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture) · [**Hub Deployment**](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture/tree/main/terraform/environments/hub) · [**Network Modules**](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture/tree/main/terraform/modules/network) · [**Pipeline Harness**](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture/blob/main/run-pipeline.ps1)
 
 <details>
 <summary><b>🔬 [INSPECT ARCHITECTURE SPEC] Multi-Tenant Hub-and-Spoke Topologies</b></summary>
@@ -128,13 +128,13 @@ HUB-SPOKE/
 
 ---
 
-### 2. 🛡️ [`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/Master_PipeLine)
+### 2. 🛡️ [`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
 Enterprise 4-stage Azure DevOps and GitHub Actions CI/CD framework enforcing shift-left supply chain security and immutable plan execution.
 * **Stage Flow:** `Stage 1: Terraform Plan` ➔ `Stage 2: Shift-Left Security (tfsec, Checkov, Gitleaks)` ➔ `Stage 3: Manual Environment Approval Gate` ➔ `Stage 4: Terraform Apply with Saved Plan Artifact`.
 * **Zero-Trust Identity:** Completely eliminates permanent service principal secret keys by authenticating via **Workload Identity Federation (OIDC)**.
 * **Audit & Compliance:** Publishes JUnit-formatted compliance reports directly into Azure DevOps pipelines for instant vulnerability visibility.
 
-[**Explore DevSecOps Pipeline →**](https://github.com/MihirMaurya-dev/Master_PipeLine) · [**Azure Pipelines YAML**](https://github.com/MihirMaurya-dev/Master_PipeLine) · [**Pre-Commit Security**](https://github.com/MihirMaurya-dev/Master_PipeLine) · [**Gitleaks Policy**](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[**Explore DevSecOps Pipeline →**](https://github.com/MihirMaurya-dev/master-devsecops-pipeline) · [**Azure Pipelines YAML**](https://github.com/MihirMaurya-dev/master-devsecops-pipeline/blob/main/terraform-pipeline/azure-pipelines.yml) · [**Gitleaks Policy**](https://github.com/MihirMaurya-dev/master-devsecops-pipeline/blob/main/terraform-pipeline/.gitleaks.toml)
 
 <details>
 <summary><b>🔐 [INSPECT PIPELINE FLOW] 4-Stage Immutable CI/CD Lifecycle</b></summary>
