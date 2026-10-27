@@ -1,0 +1,4 @@
+devops_analysis.txt
+*.log
+.DS_Store
+Thumbs.db
