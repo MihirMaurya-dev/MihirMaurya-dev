@@ -14,7 +14,7 @@
 [![Live Project](https://img.shields.io/badge/Live_Project-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
-[![Control Plane](https://img.shields.io/badge/Status-Available_for_Senior_%26_Architect_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-connect)
+[![Control Plane](https://img.shields.io/badge/Status-Open_for_DevSecOps_%26_Cloud_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-connect)
 
 </div>
 
@@ -433,7 +433,7 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 
 ## 🤝 Let's Connect
 
-I am actively open to discussions regarding **Cloud Solutions Architect**, **DevSecOps Engineer**, and **Agentic AI Platform** opportunities.
+I am actively open to full-time opportunities regarding **DevSecOps Engineer**, **Cloud Solutions Architect**, and **Agentic AI Systems** roles.
 
 <div align="center">
 
