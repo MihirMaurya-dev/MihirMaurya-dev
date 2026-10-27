@@ -40,7 +40,7 @@
 
 I am a **Cloud Solutions Architect and DevSecOps Engineer** specializing in enterprise-grade **Microsoft Azure platforms**, **Zero-Trust Infrastructure as Code (Terraform)**, and cutting-edge **Agentic AI systems (Model Context Protocol, RAG, and autonomous SRE operations)**.
 
-Combining an analytical foundation in **Computer Applications & Mathematics (M.Sc Computer Science)** with intensive immersion in **DevOps Insiders (Batch 18)**, I engineer production platforms designed for high resilience, verifiable security compliance, and automated self-healing operations:
+Combining an analytical foundation in **Computer Applications & Mathematics (M.Sc Computer Science)** with hands-on enterprise cloud architecture and infrastructure engineering, I engineer production platforms designed for high resilience, verifiable security compliance, and automated self-healing operations:
 
 * ☁️ **Cloud Architecture & CAF Governance:** Architecting enterprise Hub-and-Spoke topologies, micro-segmented Virtual Networks, Route Tables with forced egress, Azure Firewall Premium, and production AKS clusters.
 * 🛡️ **Shift-Left DevSecOps & Supply Chain:** Authoring 4-stage automated pipelines in Azure DevOps and GitHub Actions with secretless OIDC authentication, static code analysis (**Checkov**, **tfsec**, **TFLint**), secret scanning (**Gitleaks**, **TruffleHog**), and manual approval gates.
@@ -377,6 +377,61 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,git,linux,bash,powershell,python,postgres,prometheus,grafana&theme=dark&perline=7" alt="Tech Stack Icons" />
 </a>
+
+<br/><br/>
+
+### ☁️ Cloud & Infrastructure
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B2CBF?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### 🔐 Security & Governance
+![tfsec](https://img.shields.io/badge/tfsec-1a1a2e?style=flat-square&logo=security&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-4B275F?style=flat-square&logo=bridgecrew&logoColor=white)
+![Prisma Cloud](https://img.shields.io/badge/Prisma_Cloud-48B9C7?style=flat-square&logo=prisma&logoColor=white)
+![TFLint](https://img.shields.io/badge/TFLint-7B2CBF?style=flat-square&logo=terraform&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-181717?style=flat-square&logo=github&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+
+### 🖥️ OS & Shell
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenCost](https://img.shields.io/badge/OpenCost-00B4D8?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 🤖 Agentic AI & LLMOps
+![Model Context Protocol](https://img.shields.io/badge/MCP-Standard-00E5FF?style=flat-square&logo=anthropic&logoColor=0B0813)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7B2CBF?style=flat-square&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 🔧 Backend & Languages
+![PHP 8.x](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python 3](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🧰 Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
