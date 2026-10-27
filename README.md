@@ -353,6 +353,9 @@ A comprehensive index of production infrastructure repositories, security scanne
 | 🏥 **[`medikiosk-sih26047`](https://github.com/MihirMaurya-dev/medikiosk-sih26047)** | Smart India Hackathon Clinical Intake Platform | FastAPI, Groq Llama 3.3, Gemini OCR, ABHA | `Multi-LLM Router` 🟢 |
 | 🏋️ **[`FlexZone`](https://github.com/MihirMaurya-dev/FlexZone)** | High-Performance Workout Engine & REST API | PHP 8.x, Relational MySQL, Vanilla JS, Azure | `Cloudflare Edge` 🟢 |
 | 🔄 **[`Master_PipeLine`](https://github.com/MihirMaurya-dev/Master_PipeLine)** | Centralized Pre-Commit Git Hook Standard | Pre-Commit v4.4, Gitleaks, Terraform Lint | `Client-Side Hooks` 🟢 |
+| 🔄 **[`PipeLine`](https://github.com/MihirMaurya-dev/PipeLine)** | Azure Infrastructure Terraform CI/CD Automation Engine | GitHub Actions, Checkov, TFLint, Terraform | `CI/CD Passing` 🟢 |
+| 📦 **[`Terraform`](https://github.com/MihirMaurya-dev/Terraform)** | Production Azure IaC Library & CAF Governance | Modular Terraform, Load Balancers, VNets | `Modular IaC` 🟢 |
+| 🚀 **[`CI-CD`](https://github.com/MihirMaurya-dev/CI-CD)** | Continuous Integration & Deployment Workflows | GitHub Actions, Multi-Stage CI/CD, Azure | `Automated CI` 🟢 |
 | 🌐 **[`MihirMaurya-dev.github.io`](https://github.com/MihirMaurya-dev/MihirMaurya-dev.github.io)** | Official Responsive Cloud Engineer Portfolio | HTML5, CSS3, Modern JavaScript, GitHub Pages | `Static Edge Deploy` 🟢 |
 
 ---
