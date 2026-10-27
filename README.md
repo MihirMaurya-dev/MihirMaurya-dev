@@ -336,6 +336,27 @@ stages:
 
 ---
 
+## 🗂️ Enterprise Platform & Repository Directory
+
+A comprehensive index of production infrastructure repositories, security scanners, and agentic AI systems maintained across this portfolio:
+
+| Repository & Domain | Architecture Scope | Core Enterprise Tooling | Security & Quality Gate |
+|:---|:---|:---|:---:|
+| 🕸️ **[`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)** | Multi-Tenant Hub-and-Spoke Network Topology | Terraform, Azure Firewall, Bastion, VPN GW | `Checkov CIS Gate` 🟢 |
+| 🛡️ **[`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)** | 4-Stage CI/CD Pipeline & Predictive FinOps | Azure DevOps, Gitleaks, tfsec, Trivy | `Azure Prices API` 🟢 |
+| 🤖 **[`agentic-ai-devops`](https://github.com/MihirMaurya-dev/agentic-ai-devops)** | Autonomous SRE Swarms & MCP Protocol | Model Context Protocol, LangGraph, Python | `Self-Healing PR` 🟢 |
+| 🧠 **[`DevOps-Notes`](https://github.com/MihirMaurya-dev/DevOps-Notes)** | 174+ Note Obsidian Vault & 400+ Scenario Q&A | Obsidian Markdown, ADR Engine, CAF Maps | `16 Domains` 🟢 |
+| 🏛️ **[`azure-caf-modular-iac`](https://github.com/MihirMaurya-dev/azure-caf-modular-iac)** | Modular Azure Infrastructure & Multi-Tier Compute | Terraform Modules, Bastion, NAT Gateway | `Decoupled States` 🟢 |
+| 🏢 **[`axion-enterprise-infra`](https://github.com/MihirMaurya-dev/axion-enterprise-infra)** | 3-Tier Web/App/Database Production Architecture | Ubuntu Linux VMs, Micro-Segmented Subnets | `GitHub Actions CI` 🟢 |
+| ⚡ **[`azure-devops-iis-automation`](https://github.com/MihirMaurya-dev/azure-devops-iis-automation)** | Self-Hosted Agent Pipeline & Automated IIS Site | .NET 8, Cobertura XML, appcmd.exe, PowerShell | `Coverage Dashboard` 🟢 |
+| 🛡️ **[`genesis-iac-security-framework`](https://github.com/MihirMaurya-dev/genesis-iac-security-framework)** | Custom Gitleaks Secret Detection & TFLint Suite | Custom Regex Rules, Terraform, TFLint, Trivy | `Pre-Commit Gate` 🟢 |
+| 🏥 **[`medikiosk-sih26047`](https://github.com/MihirMaurya-dev/medikiosk-sih26047)** | Smart India Hackathon Clinical Intake Platform | FastAPI, Groq Llama 3.3, Gemini OCR, ABHA | `Multi-LLM Router` 🟢 |
+| 🏋️ **[`FlexZone`](https://github.com/MihirMaurya-dev/FlexZone)** | High-Performance Workout Engine & REST API | PHP 8.x, Relational MySQL, Vanilla JS, Azure | `Cloudflare Edge` 🟢 |
+| 🔄 **[`Master_PipeLine`](https://github.com/MihirMaurya-dev/Master_PipeLine)** | Centralized Pre-Commit Git Hook Standard | Pre-Commit v4.4, Gitleaks, Terraform Lint | `Client-Side Hooks` 🟢 |
+| 🌐 **[`MihirMaurya-dev.github.io`](https://github.com/MihirMaurya-dev/MihirMaurya-dev.github.io)** | Official Responsive Cloud Engineer Portfolio | HTML5, CSS3, Modern JavaScript, GitHub Pages | `Static Edge Deploy` 🟢 |
+
+---
+
 ## 🏛️ Architectural Decision Records (ADR Showcase)
 
 Demonstrating the architectural rationale and risk-tradeoff evaluations applied across production environments:
@@ -401,7 +422,7 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 
 <div align="center">
 
-[![Public Repos](https://img.shields.io/badge/Public_Repos-12-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-15+-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
 [![Obsidian Notes](https://img.shields.io/badge/DevOps_Notes-174+-00FF66?style=for-the-badge&logo=obsidian&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
 [![Interview Scenarios](https://img.shields.io/badge/Architectural_Q%26A-400+-00E5FF?style=for-the-badge&logo=azuredevops&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
 [![Location](https://img.shields.io/badge/Location-India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mihirmaurya-dev.github.io/)
