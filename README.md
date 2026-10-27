@@ -10,7 +10,7 @@
 
 **Production Azure Infrastructure · Zero-Trust IaC · Shift-Left DevSecOps · Autonomous SRE Swarms**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![Website](https://img.shields.io/badge/Portfolio-b18g119.online-00FF66?style=for-the-badge&logo=googlechrome&logoColor=0B0813)](https://b18g119.online)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
 [![Control Plane](https://img.shields.io/badge/Status-Open_for_DevSecOps_%26_Cloud_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-connect)
@@ -305,7 +305,7 @@ I am actively open to discussions regarding **DevSecOps Engineer**, **Cloud Solu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Mihir-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Mihir-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![Website](https://img.shields.io/badge/Portfolio-Visit_b18g119.online-00FF66?style=for-the-badge&logo=googlechrome&logoColor=0B0813)](https://b18g119.online)
 [![Instagram](https://img.shields.io/badge/Instagram-@mihirmauryaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mihirmauryaa/)
 [![DevOps Vault](https://img.shields.io/badge/Obsidian-Explore_DevOps_Notes-9D4EDD?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
