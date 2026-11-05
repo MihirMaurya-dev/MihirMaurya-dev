@@ -56,7 +56,7 @@
     }
     .pulse {
       animation: pulseLed 2.2s ease-in-out infinite;
-      transform-origin: 885px 48px;
+      transform-origin: 830px 49px;
     }
     .scan-line {
       stroke-dasharray: 80 320;

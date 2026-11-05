@@ -11,7 +11,7 @@
 **Scalable Azure Cloud Platforms · Zero-Trust Infrastructure as Code · Shift-Left Pipeline Governance · Autonomous Incident Triage**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirmaurya--dev.github.io-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mihirmaurya-dev.github.io/)
-[![Live Platform](https://img.shields.io/badge/Live_Platform-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
+[![Featured IaC](https://img.shields.io/badge/Featured_IaC-Azure_Hub--Spoke-00FF66?style=for-the-badge&logo=terraform&logoColor=0B0813)](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
 [![Status](https://img.shields.io/badge/Status-Open_for_Cloud_%26_DevSecOps_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-lets-connect)
@@ -334,22 +334,14 @@ stages:
 
 ---
 
-## 📈 Engineering Activity
+## 📈 Engineering Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MihirMaurya-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mihir Maurya's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=MihirMaurya-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Public Repos](https://img.shields.io/badge/Public_Repos-13+-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-13+-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
 [![Azure CAF Compliant](https://img.shields.io/badge/Azure_CAF-Compliant-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
 [![Zero-Trust IaC](https://img.shields.io/badge/Zero--Trust-Modular_IaC-00FF66?style=for-the-badge&logo=terraform&logoColor=0B0813)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[![CI/CD Security](https://img.shields.io/badge/Shift--Left-Gitleaks_%26_tfsec-00E5FF?style=for-the-badge&logo=bridgecrew&logoColor=0B0813)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
 [![Location](https://img.shields.io/badge/Location-India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mihirmaurya-dev.github.io/)
 
 </div>
@@ -385,7 +377,7 @@ I am actively open to opportunities regarding **Cloud & DevSecOps Engineer** rol
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirmaurya--dev.github.io-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mihirmaurya-dev.github.io/)
-[![Live Platform](https://img.shields.io/badge/Live_Platform-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
+[![Featured Project](https://img.shields.io/badge/Featured_Project-FlexZone_Engine-00FF66?style=for-the-badge&logo=azureartifacts&logoColor=0B0813)](https://github.com/MihirMaurya-dev/FlexZone)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Mihir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Mihir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhotuverma2238@gmail.com)
