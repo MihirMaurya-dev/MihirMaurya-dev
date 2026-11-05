@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="100%" height="130">
   <defs>
+    <!-- Background Gradient: Deep Obsidian to Midnight Void -->
     <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07030e"/>
-      <stop offset="50%" stop-color="#120624"/>
-      <stop offset="100%" stop-color="#040108"/>
+      <stop offset="0%" stop-color="#070312"/>
+      <stop offset="50%" stop-color="#120626"/>
+      <stop offset="100%" stop-color="#04010a"/>
     </linearGradient>
 
+    <!-- Cyber Neon Border Gradient -->
     <linearGradient id="footerMatrix" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7B2CBF"/>
       <stop offset="30%" stop-color="#00FF66"/>
@@ -13,6 +15,7 @@
       <stop offset="100%" stop-color="#9D4EDD"/>
     </linearGradient>
 
+    <!-- Glow Filter -->
     <filter id="fglow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
@@ -21,6 +24,7 @@
       </feMerge>
     </filter>
 
+    <!-- Subtle Grid Background Pattern -->
     <pattern id="footerGrid" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#9D4EDD" stroke-opacity="0.07" stroke-width="1"/>
     </pattern>
@@ -28,60 +32,65 @@
 
   <style>
     @keyframes pulseHeartbeat {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.25; }
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.3; transform: scale(0.9); }
     }
     .heartbeat {
       animation: pulseHeartbeat 2s ease-in-out infinite;
+      transform-origin: 50px 38px;
     }
     .mono {
       font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
     }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
   </style>
 
-  <rect width="1200" height="140" rx="12" fill="url(#footerBg)"/>
-  <rect width="1200" height="140" rx="12" fill="url(#footerGrid)"/>
-  <rect width="1198" height="138" x="1" y="1" rx="11" fill="none" stroke="#7B2CBF" stroke-opacity="0.3" stroke-width="1.2"/>
+  <!-- Container Base -->
+  <rect width="1200" height="130" rx="14" fill="url(#footerBg)"/>
+  <rect width="1200" height="130" rx="14" fill="url(#footerGrid)"/>
+  <rect width="1198" height="128" x="1" y="1" rx="13" fill="none" stroke="#7B2CBF" stroke-opacity="0.3" stroke-width="1.2"/>
 
-  <!-- Top Matrix Line -->
+  <!-- Top Matrix Horizon Line -->
   <path d="M 20 1 L 1180 1" stroke="url(#footerMatrix)" stroke-width="2" filter="url(#fglow)"/>
 
-  <!-- Status Light & Left Text -->
-  <g transform="translate(40, 42)">
-    <circle cx="10" cy="10" r="4.5" fill="#00FF66" class="heartbeat" filter="url(#fglow)"/>
-    <text x="24" y="14" fill="#00FF66" class="mono" font-size="12" font-weight="700" letter-spacing="1.2">SYSTEM OPERATIONAL</text>
-    <text x="200" y="14" fill="#64748B" class="mono" font-size="12">|</text>
-    <text x="218" y="14" fill="#C4B5FD" class="mono" font-size="12" font-weight="500">Mihir Maurya Cloud &amp; DevSecOps Infrastructure</text>
+  <!-- Left Header Status & Signature -->
+  <g transform="translate(40, 38)">
+    <circle cx="10" cy="0" r="4.5" fill="#00FF66" class="heartbeat" filter="url(#fglow)"/>
+    <text x="24" y="4" fill="#00FF66" class="mono" font-size="11.5" font-weight="700" letter-spacing="1.2">CONTINUOUS INTEGRATION &amp; ZERO-TRUST INFRASTRUCTURE</text>
+    <text x="500" y="4" fill="#64748B" class="mono" font-size="12">|</text>
+    <text x="520" y="4" fill="#C4B5FD" class="sans" font-size="12" font-weight="500">Architecting Resilient Cloud Platforms · Enforcing Shift-Left DevSecOps</text>
   </g>
 
-  <!-- Middle Telemetry Pills -->
-  <g transform="translate(40, 85)">
-    <!-- Pill 1 -->
-    <rect width="190" height="28" rx="6" fill="#140728" stroke="#7B2CBF" stroke-width="1"/>
-    <text x="12" y="18" fill="#A855F7" class="mono" font-size="10.5" font-weight="600">CAF 3.0: COMPLIANT</text>
+  <!-- Middle Standards Pills -->
+  <g transform="translate(40, 75)">
+    <!-- Pill 1: CAF 3.0 -->
+    <rect width="180" height="28" rx="6" fill="#140728" stroke="#7B2CBF" stroke-width="1"/>
+    <text x="14" y="18" fill="#A855F7" class="mono" font-size="11" font-weight="600">AZURE CAF 3.0</text>
 
-    <!-- Pill 2 -->
-    <g transform="translate(205, 0)">
-      <rect width="210" height="28" rx="6" fill="#051c14" stroke="#00FF66" stroke-opacity="0.6" stroke-width="1"/>
-      <text x="12" y="18" fill="#00FF66" class="mono" font-size="10.5" font-weight="600">ZERO-TRUST: ENFORCED</text>
+    <!-- Pill 2: Secretless OIDC -->
+    <g transform="translate(195, 0)">
+      <rect width="200" height="28" rx="6" fill="#051c14" stroke="#00FF66" stroke-opacity="0.6" stroke-width="1"/>
+      <text x="14" y="18" fill="#00FF66" class="mono" font-size="11" font-weight="600">SECRETLESS OIDC</text>
     </g>
 
-    <!-- Pill 3 -->
-    <g transform="translate(430, 0)">
-      <rect width="220" height="28" rx="6" fill="#08182b" stroke="#00E5FF" stroke-opacity="0.6" stroke-width="1"/>
-      <text x="12" y="18" fill="#00E5FF" class="mono" font-size="10.5" font-weight="600">OIDC AUTH: SECRETLESS</text>
+    <!-- Pill 3: Immutable IaC -->
+    <g transform="translate(410, 0)">
+      <rect width="190" height="28" rx="6" fill="#08182b" stroke="#00E5FF" stroke-opacity="0.6" stroke-width="1"/>
+      <text x="14" y="18" fill="#00E5FF" class="mono" font-size="11" font-weight="600">IMMUTABLE IaC</text>
     </g>
 
-    <!-- Pill 4 -->
-    <g transform="translate(665, 0)">
-      <rect width="220" height="28" rx="6" fill="#18072b" stroke="#C084FC" stroke-opacity="0.6" stroke-width="1"/>
-      <text x="12" y="18" fill="#E9D5FF" class="mono" font-size="10.5" font-weight="600">VAULT: 174+ KNOWLEDGE</text>
+    <!-- Pill 4: Shift-Left Gates -->
+    <g transform="translate(615, 0)">
+      <rect width="210" height="28" rx="6" fill="#18072b" stroke="#C084FC" stroke-opacity="0.6" stroke-width="1"/>
+      <text x="14" y="18" fill="#E9D5FF" class="mono" font-size="11" font-weight="600">SHIFT-LEFT GATES</text>
     </g>
   </g>
 
-  <!-- Right Side Hash / Signature -->
-  <g transform="translate(980, 52)">
-    <text x="0" y="0" fill="#64748B" class="mono" font-size="11">NODE ID: AZ-CENTRAL</text>
-    <text x="0" y="20" fill="#00FF66" class="mono" font-size="11" font-weight="700">HASH: 0x9D4E...SEC</text>
+  <!-- Right Side Attribution (Authentic, No Fake Telemetry) -->
+  <g transform="translate(970, 52)">
+    <text x="0" y="0" fill="#94A3B8" class="mono" font-size="11">ENGINEER: MIHIR MAURYA</text>
+    <text x="0" y="20" fill="#00FF66" class="mono" font-size="11" font-weight="700">REPO: MihirMaurya-dev</text>
   </g>
 </svg>
