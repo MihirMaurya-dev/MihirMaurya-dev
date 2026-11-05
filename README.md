@@ -1,88 +1,69 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Mihir Maurya - Cloud Solutions Architect & Enterprise DevSecOps" width="100%" />
+<img src="./assets/banner.svg" alt="Mihir Maurya - Cloud & DevSecOps Engineer" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=900&height=50&lines=Cloud+Solutions+Architect+%7C+Enterprise+DevSecOps+%7C+Agentic+AI;Azure+CAF+Landing+Zones+%7C+Zero-Trust+Hub-and-Spoke+Topology;Secretless+CI%2FCD+with+OIDC+Workload+Identity+Federation;Model+Context+Protocol+(MCP)+%26+Autonomous+SRE+Agent+Swarms;174%2B+Production+Obsidian+Vault+Notes+%7C+400%2B+Architectural+Scenarios" alt="Animated DevSecOps headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=900&height=50&lines=Cloud+%26+DevSecOps+Engineer;Azure+CAF+Landing+Zones+%7C+Zero-Trust+Hub-and-Spoke+Topology;Secretless+CI%2FCD+with+OIDC+Workload+Identity+Federation;Shift-Left+Security+with+Checkov%2C+tfsec+%26+Gitleaks;Dynamic+Matrix+CI%2FCD+Automation+%26+Infracost+FinOps" alt="Animated DevSecOps headline" />
 </a>
 
-### ⚡ Enterprise Cloud Solutions Architect & DevSecOps Engineer | Agentic AI Systems
+### ⚡ Cloud & DevSecOps Engineer | Azure Infrastructure & CI/CD Security Automation
 
-**Production Azure Infrastructure · Zero-Trust IaC · Shift-Left DevSecOps · Autonomous SRE Swarms**
+**Scalable Azure Cloud Platforms · Zero-Trust Infrastructure as Code · Shift-Left Pipeline Governance · Autonomous Incident Triage**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirmaurya--dev.github.io-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mihirmaurya-dev.github.io/)
-[![Live Project](https://img.shields.io/badge/Live_Project-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
+[![Live Platform](https://img.shields.io/badge/Live_Platform-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
-[![Control Plane](https://img.shields.io/badge/Status-Open_for_DevSecOps_%26_Cloud_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-connect)
+[![Status](https://img.shields.io/badge/Status-Open_for_Cloud_%26_DevSecOps_Roles-00E5FF?style=for-the-badge&logo=opsgenie&logoColor=0B0813)](#-lets-connect)
 
 </div>
 
 ---
 
-## 🛰️ Mission Control Telemetry Matrix
+## 🧑‍💻 Professional Summary
 
-<div align="center">
+I am a **Cloud & DevSecOps Engineer** dedicated to engineering resilient, automated **Microsoft Azure cloud platforms**, declarative **Infrastructure as Code (Terraform)**, and shift-left **CI/CD security pipelines** in GitHub Actions and Azure DevOps.
 
-| Subsystem | Telemetry Status | Architecture Standard | Gate Verification |
-|:---|:---:|:---|:---:|
-| ☁️ **Cloud Foundation** | `ONLINE` 🟢 | Azure Cloud Adoption Framework (CAF 3.0) | Multi-Subscription Hub & Spoke |
-| 🛡️ **Supply Chain Security** | `ENFORCED` 🟢 | CIS Benchmark v2.0 · Checkov · tfsec | Automated Pre-Merge PR Gate |
-| 🔑 **Identity & Access** | `SECRETLESS` 🟢 | Workload Identity Federation (OIDC) | Zero Static Service Principal Secrets |
-| 🤖 **Agentic Incident AI** | `DEPLOYED` 🟢 | Model Context Protocol (MCP) · LangGraph | Self-Healing PR & Anomaly Triage |
-| 📚 **Knowledge Repository** | `174+ RUNBOOKS` 🟢 | Markdown Obsidian Vault · 400+ Q&As | 16 Architecture Domains · ADR Engine |
+Combining hands-on cloud provisioning and pipeline automation with an analytical foundation in **Computer Applications & Mathematics (M.Sc Computer Science, B.Sc Mathematics & Computer Applications)**, I design infrastructure with strict security compliance, automated cost governance, and self-healing operations:
 
-</div>
+* ☁️ **Cloud Architecture & CAF Governance:** Architecting enterprise Hub-and-Spoke topologies, micro-segmented Virtual Networks, User Defined Routes (UDRs), Azure Bastion jumpboxes, NAT Gateways for static egress, and Azure Key Vault private endpoints.
+* 🛡️ **Shift-Left DevSecOps & Supply Chain Security:** Hardening multi-stage CI/CD pipelines in Azure DevOps and GitHub Actions with secretless **Workload Identity Federation (OIDC)**, static code analysis (**Checkov**, **tfsec**, **TFLint**), and secret detection (**Gitleaks**, **TruffleHog**).
+* ⚡ **Dynamic CI/CD Matrix & FinOps:** Authoring intelligent monorepo workflow bots utilizing `tj-actions/changed-files` for isolated multi-directory Terraform execution, integrated with **Infracost** and the **Azure Retail Prices API** to prevent budget overruns before merge.
+* 🤖 **Agentic AI & SRE Automation:** Standardizing **Model Context Protocol (MCP)** servers and **LangGraph** cyclical state machines for automated infrastructure alert ingestion, runbook querying, and GitOps remediation pull requests.
 
 ---
 
-## 🧑‍💻 Executive Summary
-
-I am a **Cloud Solutions Architect and DevSecOps Engineer** specializing in enterprise-grade **Microsoft Azure platforms**, **Zero-Trust Infrastructure as Code (Terraform)**, and cutting-edge **Agentic AI systems (Model Context Protocol, RAG, and autonomous SRE operations)**.
-
-Combining an analytical foundation in **Computer Applications & Mathematics (M.Sc Computer Science)** with hands-on enterprise cloud architecture and infrastructure engineering, I engineer production platforms designed for high resilience, verifiable security compliance, and automated self-healing operations:
-
-* ☁️ **Cloud Architecture & CAF Governance:** Architecting enterprise Hub-and-Spoke topologies, micro-segmented Virtual Networks, Route Tables with forced egress, Azure Firewall Premium, and production AKS clusters.
-* 🛡️ **Shift-Left DevSecOps & Supply Chain:** Authoring 4-stage automated pipelines in Azure DevOps and GitHub Actions with secretless OIDC authentication, static code analysis (**Checkov**, **tfsec**, **TFLint**), secret scanning (**Gitleaks**, **TruffleHog**), and manual approval gates.
-* 🤖 **Agentic AI & LLMOps:** Implementing **Model Context Protocol (MCP)** servers and **LangGraph** multi-agent swarms that ingest live infrastructure alerts, retrieve runbooks from vector stores, and autonomously generate remediation GitOps pull requests.
-* 🧠 **Systemized Architectural Knowledge:** Architect of a **174+ note production-grade Obsidian Knowledge Vault** spanning 16 domains, 33 Azure services, 400+ scenario interview questions, and real-world Architecture Decision Records (ADRs).
-
----
-
-## 🧭 Portfolio Delivery Architecture
+## 🧭 Core Delivery Architecture
 
 ```mermaid
 flowchart TD
-    subgraph Core["🏛️ Architecture & Governance"]
+    subgraph Core["🏛️ Azure Infrastructure & CAF Governance"]
         A["Mihir Maurya Cloud Platform"] --> B["Azure CAF Landing Zones"]
         A --> C["Enterprise Hub & Spoke VNet"]
-        A --> D["Agentic AI SRE & MCP Swarm"]
-        A --> E["174+ Note Obsidian Vault"]
+        A --> D["Agentic SRE & MCP Tooling"]
     end
 
-    subgraph DevSecOps["🛡️ DevSecOps & Pipeline Gates"]
-        B --> F["Terraform Modular IaC"]
-        C --> F
-        F --> G["Gitleaks & TruffleHog Scan"]
-        G --> H["Checkov & tfsec CIS Gate"]
-        H --> I["Azure DevOps / GitHub Actions OIDC"]
-        I --> J["Environment Approval Gate"]
-    end
-
-    subgraph AI["🤖 Autonomous AI Operations"]
-        D --> K["Model Context Protocol (MCP) Host"]
-        E -.->|"Vectorized Runbooks"| L["RAG Incident Knowledge Base"]
-        K --> L
-        L --> M["LangGraph Self-Healing Agent"]
-        M --> N["Automated GitOps Remediation PR"]
+    subgraph DevSecOps["🛡️ Shift-Left CI/CD Pipeline Gates"]
+        B --> E["Terraform Modular IaC"]
+        C --> E
+        E --> F["Client-Side Pre-Commit Hooks\nGitleaks & TruffleHog Scan"]
+        F --> G["SAST & IaC Security Gate\nCheckov & tfsec CIS Benchmarks"]
+        G --> H["Azure DevOps / GitHub Actions OIDC\nSecretless Workload Identity"]
+        H --> I["Infracost & Azure Retail Prices API\nFinOps Cost Approval Gate"]
     end
 
     subgraph Runtime["☸️ Production Runtime"]
-        J --> O["Zero-Trust Azure Runtime"]
-        N --> O
-        O --> P["Production AKS Platform"]
-        O --> Q["Azure Firewall & Hub Peering"]
-        O --> R["Key Vault Workload Identity"]
+        I --> J["Zero-Trust Azure Platform"]
+        J --> K["Central Hub VNet & Azure Firewall"]
+        J --> L["Spoke Workloads & Private Endpoints"]
+        J --> M["Azure Key Vault & Managed Identities"]
+    end
+
+    subgraph AI["🤖 Autonomous SRE Operations"]
+        D --> N["Model Context Protocol (MCP) Host"]
+        N --> O["LangGraph Anomaly Analysis Agent"]
+        O --> P["Automated GitOps Remediation PR"]
+        P -.-> J
     end
 
     classDef purple fill:#1d0738,stroke:#9d4edd,stroke-width:2px,color:#fff;
@@ -90,10 +71,10 @@ flowchart TD
     classDef cyan fill:#051b2e,stroke:#00e5ff,stroke-width:2px,color:#fff;
     classDef amber fill:#2d1900,stroke:#f59e0b,stroke-width:2px,color:#fff;
 
-    class A,B,C,E purple;
-    class F,G,H,I,J amber;
-    class D,K,L,M,N cyan;
-    class O,P,Q,R matrix;
+    class A,B,C purple;
+    class E,F,G,H,I amber;
+    class D,N,O,P cyan;
+    class J,K,L,M matrix;
 ```
 
 ---
@@ -104,7 +85,7 @@ flowchart TD
 
 ### 1. 🕸️ [`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
 
-> **Enterprise Hub-and-Spoke Network Topology & CAF Segmentation via Modular Terraform**
+> **Enterprise Azure Hub-and-Spoke Network Topology & CAF Landing Zone via Modular Terraform**
 
 [![Status](https://img.shields.io/badge/Status-Production_Ready-00FF66?style=flat-square&logo=azuredevops&logoColor=0B0813)](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
 [![IaC](https://img.shields.io/badge/IaC-Terraform_Modular-7B2CBF?style=flat-square&logo=terraform&logoColor=white)](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
@@ -113,10 +94,10 @@ flowchart TD
 
 | Architectural Dimension | Engineering Implementation |
 |---|---|
-| 🏢 **Hub Infrastructure** | Centralized VNet (`10.0.0.0/16`), `AzureFirewallSubnet`, `GatewaySubnet`, `BastionSubnet`, `ManagementSubnet`, and Private Key Vault |
+| 🏢 **Hub Infrastructure** | Centralized Hub VNet (`10.0.0.0/16`), `AzureFirewallSubnet`, `GatewaySubnet`, `BastionSubnet`, `ManagementSubnet`, and Private Key Vault |
 | 🧪 **Spoke Segmentation** | Multi-environment isolation (`spoke-dev` at `10.1.0.0/16`, `spoke-prod` at `10.2.0.0/16`) interconnected via low-latency VNet Peering |
-| 🛡️ **DevSecOps Simulation** | Custom PowerShell CI harness (`run-pipeline.ps1`) executing automated Checkov SAST, formatting checks, and plan artifact locking |
-| 🔒 **State Decoupling** | Isolated remote state backends per environment in Azure Blob Storage to prevent concurrency conflicts and blast radiuses |
+| 🛡️ **DevSecOps Harness** | Custom PowerShell CI simulator (`run-pipeline.ps1`) executing automated Checkov SAST, formatting checks, and plan artifact locking |
+| 🔒 **State Decoupling** | Isolated remote state backends per environment in Azure Blob Storage with lease locking to prevent concurrency locks and blast radius |
 
 <div align="center">
 
@@ -149,13 +130,79 @@ HUB-SPOKE/
 
 ---
 
-### 2. 🛡️ [`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
+### 2. 🤖 [`Master_PipeLine`](https://github.com/MihirMaurya-dev/Master_PipeLine)
+
+> **Enterprise Multi-Directory Terraform CI/CD Bot & Pre-Commit Security Engine**
+
+[![CI/CD Bot Status](https://img.shields.io/badge/CI%2FCD-Dynamic_Matrix_Bot-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[![Hooks](https://img.shields.io/badge/Hooks-Pre--Commit_v4.4+-FAB040?style=flat-square&logo=precommit&logoColor=0B0813)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[![IaC Engine](https://img.shields.io/badge/IaC-HashiCorp_Terraform_v1.9+-7B2CBF?style=flat-square&logo=terraform&logoColor=white)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[![FinOps](https://img.shields.io/badge/FinOps-Infracost_PR_Deltas-00E5FF?style=flat-square&logo=infracost&logoColor=0B0813)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+
+| Pipeline Capability | Engineering Implementation |
+|---|---|
+| 📐 **Dynamic Matrix Runner** | Uses `tj-actions/changed-files` to isolate and execute only directories with modified `.tf` files in parallel GitHub Actions runners |
+| 🛡️ **Shift-Left Pre-Commit** | Client-side hooks enforcing trailing whitespace, private key detection, Gitleaks regex scanning, and Terraform fmt/validation |
+| 💰 **FinOps PR Automation** | Dynamic Infracost integration that computes cost differentials and writes monthly cost projections directly onto GitHub PRs |
+| 💬 **Automated Plan Comments** | Generates detailed Terraform plan breakdowns and writes them as interactive PR comments for transparent reviewer verification |
+
+<div align="center">
+
+[![Explore Codebase](https://img.shields.io/badge/Explore-Pipeline_Bot_→-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev/Master_PipeLine)
+[![Inspect Workflow](https://img.shields.io/badge/Inspect-Actions_Workflow_→-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/MihirMaurya-dev/Master_PipeLine/blob/main/.github/workflows/terraform.yml)
+[![Inspect Hooks](https://img.shields.io/badge/Inspect-Pre--Commit_Config_→-FAB040?style=for-the-badge&logo=precommit&logoColor=0B0813)](https://github.com/MihirMaurya-dev/Master_PipeLine/blob/main/.pre-commit-config.yaml)
+
+</div>
+
+<details>
+<summary><b>📐 [INSPECT WORKFLOW SPEC] Dynamic Change-Detection CI/CD Matrix</b></summary>
+
+```yaml
+name: Dynamic Matrix Terraform CI/CD
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      tf_dirs: ${{ steps.set-matrix.outputs.directories }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: tj-actions/changed-files@v44
+        id: changed-files
+        with:
+          dir_names: true
+          files: '**/*.tf'
+
+  terraform-matrix:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.tf_dirs != '[]'
+    strategy:
+      matrix:
+        directory: ${{ fromJson(needs.detect-changes.outputs.tf_dirs) }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: hashicorp/setup-terraform@v3
+      - run: terraform fmt -check
+      - run: terraform init -backend=false
+      - run: terraform validate
+      - uses: infracost/actions/setup@v3
+      - run: infracost breakdown --path=${{ matrix.directory }} --format=json --out-file=infracost.json
+```
+</details>
+
+---
+
+### 3. 🛡️ [`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
 
 > **Enterprise 4-Stage Shift-Left Security, FinOps Cost Gating & Terraform CI/CD**
 
-[![Orchestration](https://img.shields.io/badge/Orchestrator-Azure_DevOps_Pipelines-0078D7?style=flat-square&logo=azuredevops&logoColor=white)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
-[![Secret Scanning](https://img.shields.io/badge/Secret_Scan-Gitleaks_%26_TruffleHog-00FF66?style=flat-square&logo=github&logoColor=0B0813)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
-[![IaC Scanning](https://img.shields.io/badge/IaC_Security-tfsec_%26_Trivy-7B2CBF?style=flat-square&logo=terraform&logoColor=white)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
+[![Orchestrator](https://img.shields.io/badge/Orchestrator-Azure_DevOps_Pipelines-0078D7?style=flat-square&logo=azuredevops&logoColor=white)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
+[![Secret Scan](https://img.shields.io/badge/Secret_Scan-Gitleaks_%26_TruffleHog-00FF66?style=flat-square&logo=github&logoColor=0B0813)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
+[![IaC Security](https://img.shields.io/badge/IaC_Security-tfsec_%26_Trivy-7B2CBF?style=flat-square&logo=terraform&logoColor=white)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
 [![FinOps](https://img.shields.io/badge/FinOps-Azure_Retail_Prices_API-00E5FF?style=flat-square&logo=microsoftazure&logoColor=0B0813)](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)
 
 | Pipeline Stage | Engineering Role & Gate Enforcement |
@@ -214,78 +261,7 @@ stages:
 
 ---
 
-### 3. 🤖 [`agentic-ai-devops`](https://github.com/MihirMaurya-dev/agentic-ai-devops)
-
-> **Autonomous Incident Response & SRE Swarms driven by Model Context Protocol (MCP) & LangGraph**
-
-[![Protocol](https://img.shields.io/badge/Standard-Model_Context_Protocol_(MCP)-00E5FF?style=flat-square&logo=anthropic&logoColor=0B0813)](https://github.com/MihirMaurya-dev/agentic-ai-devops)
-[![Framework](https://img.shields.io/badge/Multi--Agent-LangGraph_Swarm-7B2CBF?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/MihirMaurya-dev/agentic-ai-devops)
-[![Pacing](https://img.shields.io/badge/Syllabus-16--Week_Engineering_Roadmap-00FF66?style=flat-square&logo=python&logoColor=0B0813)](https://github.com/MihirMaurya-dev/agentic-ai-devops/blob/main/agentic-ai-devops-16-week-roadmap.md)
-[![Target](https://img.shields.io/badge/Target-Autonomous_SRE_%26_Self--Healing-1D0738?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/MihirMaurya-dev/agentic-ai-devops)
-
-| Capability | Autonomous Agent Workflow |
-|---|---|
-| 🚨 **Telemetry Ingestion** | Ingests live Prometheus and Azure Monitor alert webhooks through an asynchronous event listener |
-| 🔍 **Vector Runbook RAG** | Performs semantic chunking and dense vector queries against the 174+ note Obsidian knowledge vault |
-| ⚡ **Tool Execution (MCP)** | Standardized Model Context Protocol servers securely invoke Azure RM & Kubernetes APIs without arbitrary bash scripts |
-| 🛠️ **Self-Healing GitOps** | LangGraph cyclical state machine auto-drafts tested pull requests containing IaC resource fixes and Infracost diff calculations |
-
-<div align="center">
-
-[![Explore Agentic AI](https://img.shields.io/badge/Explore-Agentic_AI_Engine_→-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev/agentic-ai-devops)
-[![Roadmap Doc](https://img.shields.io/badge/Inspect-16--Week_Roadmap_→-00FF66?style=for-the-badge&logo=markdown&logoColor=0B0813)](https://github.com/MihirMaurya-dev/agentic-ai-devops/blob/main/agentic-ai-devops-16-week-roadmap.md)
-
-</div>
-
----
-
-### 4. 🧠 [`devops-knowledge-vault`](https://github.com/MihirMaurya-dev/DevOps-Notes)
-
-> **Production-Grade Obsidian Knowledge Engine & Enterprise Architectural Runbooks**
-
-[![Notes](https://img.shields.io/badge/Vault-174+_Evergreen_Notes-00FF66?style=flat-square&logo=obsidian&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-[![Domains](https://img.shields.io/badge/Coverage-16_Architecture_Domains-7B2CBF?style=flat-square&logo=obsidian&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-[![Interview Q&A](https://img.shields.io/badge/Interview_Prep-400+_Architectural_Scenarios-00E5FF?style=flat-square&logo=azuredevops&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-[![Azure Services](https://img.shields.io/badge/Azure_Services-33_Deep_Dives-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-
-| Knowledge Domain | Content Breakdown & Architectural Value |
-|---|---|
-| 🏗️ **IaC & Terraform** | Deep dives into declarative theory, remote state lease-locking, custom modules, workspaces, and dynamic blocks |
-| ☁️ **Azure Enterprise** | Comprehensive operational guides across 33 Azure services (AKS, VNet, PIM, Key Vault, Azure Firewall) |
-| 🏢 **Landing Zone & CAF** | Complete mapping of enterprise workloads to Microsoft Cloud Adoption Framework pillars |
-| 📋 **Decision Logs (ADRs)**| Architecture Decision Records articulating tradeoffs, security postures, and cost impacts |
-
-<div align="center">
-
-[![Explore Vault](https://img.shields.io/badge/Explore-Obsidian_Knowledge_Vault_→-7B2CBF?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-[![View Architecture Patterns](https://img.shields.io/badge/Inspect-Architecture_Patterns_→-00FF66?style=for-the-badge&logo=github&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes/tree/main/06-Architecture-Patterns)
-[![View ADRs](https://img.shields.io/badge/Inspect-Architecture_Decision_Records_→-00E5FF?style=for-the-badge&logo=git&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes/tree/main/09-Decision-Logs)
-
-</div>
-
-<details>
-<summary><b>📚 [INSPECT VAULT STRUCTURE] 16 Architecture Domains</b></summary>
-
-| Index | Domain | Focus Areas |
-|:---:|:---|:---|
-| `01` | **Terraform** | HCL, State Locking, Custom Modules, Workspaces, Loops & Dynamic Blocks |
-| `02` | **Azure** | 33 Services, AKS, VNet Peering, Private Endpoints, RBAC, Key Vault |
-| `03` | **Landing Zone** | Microsoft CAF, Management Groups, Policy-as-Code, Subscription Design |
-| `04` | **CI/CD** | Multi-Stage Pipelines, OIDC Workload Federation, Approval Gates, GitOps |
-| `05` | **Linux** | Kernel Parameters, Systemd Services, Bash Scripting, Networking (iptables/ss) |
-| `06` | **Architecture** | Hub-and-Spoke, Zero-Trust, Disaster Recovery (RTO/RPO), High Availability |
-| `07` | **Interview Prep** | Scenario Whiteboarding, System Design Q&As, Troubleshooting Runbooks |
-| `08` | **Real Builds** | Multi-Tier Enterprise Infrastructure, AKS Production Platforms |
-| `09` | **Decision Logs** | Architectural Decision Records (ADR-001 through ADR-004) |
-| `12` | **Agentic AI** | Model Context Protocol (MCP), ReAct Agents, LangGraph SRE Swarms |
-| `14` | **Security** | Checkov, tfsec, TFLint, Gitleaks, Cosign, Trivy Vulnerability Scanning |
-| `15` | **Cost Governance**| FinOps, Azure Cost Analysis, Resource Tagging, Infracost Budget Gates |
-
-</details>
-
----
-
-### 5. 🏛️ [`azure-caf-modular-iac`](https://github.com/MihirMaurya-dev/azure-caf-modular-iac)
+### 4. 🏛️ [`azure-caf-modular-iac`](https://github.com/MihirMaurya-dev/azure-caf-modular-iac)
 
 > **Modular Azure Infrastructure as Code Framework · CAF Enterprise Blueprints & Multi-Tier Compute**
 
@@ -311,65 +287,27 @@ stages:
 
 ---
 
-### 6. 🏥 [`medikiosk-edge-platform`](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
+## 🔬 Specialized Engineering Builds
 
-> **AI-Powered Clinical Intake & Triage Kiosk Platform (Smart India Hackathon SIH 2026)**
-
-[![Hackathon](https://img.shields.io/badge/Hackathon-SIH_2026_Finalist-FF9800?style=flat-square&logo=hackerearth&logoColor=white)](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
-[![Backend](https://img.shields.io/badge/Framework-FastAPI_Async-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
-[![Multi-LLM](https://img.shields.io/badge/LLM_Engine-Groq_+_Gemini_Multimodal-00FF66?style=flat-square&logo=google&logoColor=0B0813)](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
-[![Protocol](https://img.shields.io/badge/Healthcare-ABHA_ID_+_SOAP_Notes-7B2CBF?style=flat-square&logo=health&logoColor=white)](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
-
-| Feature | System Engineering Detail |
-|---|---|
-| 🤖 **Multi-Provider Fallback** | Hybrid LLM routing: **Groq** for low-latency clinical dialogues and **Google Gemini** for multimodal document OCR |
-| 📋 **Clinical Protocols** | Conducts dynamic clinical interviews (Allopathic SOCRATES & Ayurvedic Dashavidha Pariksha) with red-flag emergency detection |
-| 🩺 **Real-Time Doctor Queue** | Reactive doctor dashboard displaying auto-generated structured S-O-A-P notes and instant approval feedback |
-
-<div align="center">
-
-[![Explore MediKiosk](https://img.shields.io/badge/Explore-MediKiosk_Platform_→-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev/medikiosk-sih26047)
-[![Architecture Document](https://img.shields.io/badge/Inspect-Architecture_Spec_→-00FF66?style=for-the-badge&logo=markdown&logoColor=0B0813)](https://github.com/MihirMaurya-dev/medikiosk-sih26047/blob/main/ARCHITECTURE.md)
-[![Backend Modules](https://img.shields.io/badge/Inspect-FastAPI_Backend_→-009688?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MihirMaurya-dev/medikiosk-sih26047/tree/main/backend)
-
-</div>
-
----
-
-## 🗂️ Enterprise Platform & Repository Directory
-
-A comprehensive index of production infrastructure repositories, security scanners, and agentic AI systems maintained across this portfolio:
-
-| Repository & Domain | Architecture Scope | Core Enterprise Tooling | Security & Quality Gate |
+| Repository & Focus | Architectural Innovation | Core Technologies | Verified Gate |
 |:---|:---|:---|:---:|
-| 🕸️ **[`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)** | Multi-Tenant Hub-and-Spoke Network Topology | Terraform, Azure Firewall, Bastion, VPN GW | `Checkov CIS Gate` 🟢 |
-| 🛡️ **[`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)** | 4-Stage CI/CD Pipeline & Predictive FinOps | Azure DevOps, Gitleaks, tfsec, Trivy | `Azure Prices API` 🟢 |
-| 🤖 **[`agentic-ai-devops`](https://github.com/MihirMaurya-dev/agentic-ai-devops)** | Autonomous SRE Swarms & MCP Protocol | Model Context Protocol, LangGraph, Python | `Self-Healing PR` 🟢 |
-| 🧠 **[`DevOps-Notes`](https://github.com/MihirMaurya-dev/DevOps-Notes)** | 174+ Note Obsidian Vault & 400+ Scenario Q&A | Obsidian Markdown, ADR Engine, CAF Maps | `16 Domains` 🟢 |
-| 🏛️ **[`azure-caf-modular-iac`](https://github.com/MihirMaurya-dev/azure-caf-modular-iac)** | Modular Azure Infrastructure & Multi-Tier Compute | Terraform Modules, Bastion, NAT Gateway | `Decoupled States` 🟢 |
-| 🏢 **[`axion-enterprise-infra`](https://github.com/MihirMaurya-dev/axion-enterprise-infra)** | 3-Tier Web/App/Database Production Architecture | Ubuntu Linux VMs, Micro-Segmented Subnets | `GitHub Actions CI` 🟢 |
-| ⚡ **[`azure-devops-iis-automation`](https://github.com/MihirMaurya-dev/azure-devops-iis-automation)** | Self-Hosted Agent Pipeline & Automated IIS Site | .NET 8, Cobertura XML, appcmd.exe, PowerShell | `Coverage Dashboard` 🟢 |
-| 🛡️ **[`genesis-iac-security-framework`](https://github.com/MihirMaurya-dev/genesis-iac-security-framework)** | Custom Gitleaks Secret Detection & TFLint Suite | Custom Regex Rules, Terraform, TFLint, Trivy | `Pre-Commit Gate` 🟢 |
-| 🏥 **[`medikiosk-sih26047`](https://github.com/MihirMaurya-dev/medikiosk-sih26047)** | Smart India Hackathon Clinical Intake Platform | FastAPI, Groq Llama 3.3, Gemini OCR, ABHA | `Multi-LLM Router` 🟢 |
-| 🏋️ **[`FlexZone`](https://github.com/MihirMaurya-dev/FlexZone)** | High-Performance Workout Engine & REST API | PHP 8.x, Relational MySQL, Vanilla JS, Azure | `Cloudflare Edge` 🟢 |
-| 🔄 **[`Master_PipeLine`](https://github.com/MihirMaurya-dev/Master_PipeLine)** | Centralized Pre-Commit Git Hook Standard | Pre-Commit v4.4, Gitleaks, Terraform Lint | `Client-Side Hooks` 🟢 |
-| 🔄 **[`PipeLine`](https://github.com/MihirMaurya-dev/PipeLine)** | Azure Infrastructure Terraform CI/CD Automation Engine | GitHub Actions, Checkov, TFLint, Terraform | `CI/CD Passing` 🟢 |
-| 📦 **[`Terraform`](https://github.com/MihirMaurya-dev/Terraform)** | Production Azure IaC Library & CAF Governance | Modular Terraform, Load Balancers, VNets | `Modular IaC` 🟢 |
-| 🚀 **[`CI-CD`](https://github.com/MihirMaurya-dev/CI-CD)** | Continuous Integration & Deployment Workflows | GitHub Actions, Multi-Stage CI/CD, Azure | `Automated CI` 🟢 |
-| 🌐 **[`MihirMaurya-dev.github.io`](https://github.com/MihirMaurya-dev/MihirMaurya-dev.github.io)** | Official Responsive Cloud Engineer Portfolio | HTML5, CSS3, Modern JavaScript, GitHub Pages | `Static Edge Deploy` 🟢 |
+| 🤖 **[`agentic-ai-devops`](https://github.com/MihirMaurya-dev/agentic-ai-devops)** | Autonomous SRE triage: Ingests alert webhooks via Model Context Protocol (MCP) and runs LangGraph agents to auto-draft remediation PRs | Model Context Protocol, LangGraph, Python, Prometheus | `Self-Healing PR` 🟢 |
+| 🛡️ **[`genesis-iac-security-framework`](https://github.com/MihirMaurya-dev/genesis-iac-security-framework)** | Enterprise Terraform security suite: Custom Gitleaks regex detection patterns, TFLint policy rules, and multi-stage CI/CD validation | Terraform, Gitleaks, TFLint, Trivy | `Pre-Commit Gate` 🟢 |
+| ⚡ **[`azure-devops-iis-automation`](https://github.com/MihirMaurya-dev/azure-devops-iis-automation)** | Self-hosted Windows agent pipeline: Automated .NET Core unit testing, Cobertura code coverage generation, and automated IIS site release | Azure DevOps, .NET Core, PowerShell, IIS | `Coverage Gate` 🟢 |
 
 ---
 
-## 🏛️ Architectural Decision Records (ADR Showcase)
+## 🔒 The Engineering Standard I Enforce
 
-Demonstrating the architectural rationale and risk-tradeoff evaluations applied across production environments:
-
-| ADR ID | Decision Title | Architectural Choice & Tradeoff Rationale | Status |
-|:---:|:---|:---|:---:|
-| **ADR-001** | **Workload Identity (OIDC) vs Service Principals** | **Selected OIDC.** Eliminated long-lived client secrets stored in CI/CD variables; uses short-lived Azure AD tokens issued directly to GitHub/Azure DevOps runners. Eliminates credential leakage attack surface. | `ACCEPTED` 🟢 |
-| **ADR-002** | **Central Hub-and-Spoke vs Full Mesh VNet** | **Selected Hub-Spoke.** Enforces all cross-environment and outbound egress through a centralized firewall with User Defined Routes (UDRs), avoiding complex N*(N-1)/2 mesh peering costs and lack of visibility. | `ACCEPTED` 🟢 |
-| **ADR-003** | **Decoupled Remote States vs Monolithic State** | **Selected Decoupled State.** Split Hub, Spoke-Dev, and Spoke-Prod states into distinct Azure Blob containers with lease locking, preventing accidental blast radiuses and pipeline concurrency locks. | `ACCEPTED` 🟢 |
-| **ADR-004** | **Model Context Protocol (MCP) for SRE AI** | **Selected MCP Standard.** Provides a standardized, sandboxed protocol for AI agents to invoke Azure CLI and Kubernetes tools with strict permission boundaries rather than unsafe bash scripts. | `ACCEPTED` 🟢 |
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  1. ZERO-TRUST IDENTITY: Secretless Workload Identity Federation (OIDC)│
+│  2. IMMUTABLE IaC: All infrastructure planned, audited, and applied    │
+│  3. SHIFT-LEFT GATES: Checkov & Gitleaks block vulnerabilities at PR   │
+│  4. BLAST-RADIUS ISOLATION: Decoupled remote states with lease locking │
+│  5. COST GOVERNANCE: Infracost & Azure Retail Prices API gated in CI   │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -378,7 +316,7 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,kubernetes,docker,ansible,cloudflare,githubactions,git,linux,ubuntu,bash,powershell,python,fastapi,php,js,mysql,postgres,prometheus,grafana,vscode,postman&theme=dark&perline=8" alt="Mihir Maurya Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,linux,ubuntu,bash,powershell,githubactions,git,python,fastapi,php,mysql,prometheus,grafana,vscode,postman&theme=dark&perline=10" alt="Mihir Maurya Technology Stack" />
 </a>
 
 </div>
@@ -387,32 +325,16 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 
 | Domain | Enterprise Tools, Frameworks & Standards |
 |:---|:---|
-| ☁️ **Cloud Architecture** | Microsoft Azure, Hub-and-Spoke VNets, ExpressRoute / VPN GW, Azure Firewall, Private Endpoints, Azure Landing Zones (CAF), Azure Policy |
+| ☁️ **Cloud Architecture** | Microsoft Azure, Hub-and-Spoke VNets, Azure Bastion, NAT Gateway, Azure Key Vault Private Endpoints, Azure Landing Zones (CAF), Azure Policy |
 | 🏗️ **Infrastructure as Code** | Terraform, OpenTofu, Modular IaC, Azure Blob Remote State with Lease Locking, Dynamic `for_each` Subnet Generation, Drift Management |
-| 🔄 **CI/CD & GitOps** | Azure DevOps Pipelines, GitHub Actions, Secretless OIDC Workload Identity, 4-Stage Gate Lifecycles, Environment Manual Approval Gates |
-| 🛡️ **DevSecOps & Supply Chain** | Shift-Left Security, Checkov (CIS Microsoft Azure Benchmark), tfsec, Gitleaks, TruffleHog, TFLint, Prisma Cloud, HashiCorp Key Vault |
-| 🤖 **Agentic AI & SRE** | Model Context Protocol (MCP), LangGraph, Vector Knowledge Bases (Qdrant/ChromaDB), ReAct Autonomous Loops, Self-Healing Incident Workflows |
-| ☸️ **Containers & Platforms** | Azure Kubernetes Service (AKS), Docker, Helm 3, ACR, Key Vault CSI Driver, OIDC Workload Identity for Pods |
-| 📊 **Observability & Ops** | Azure Monitor, Log Analytics (KQL), Prometheus, Grafana, OpenCost, Health Probes, Data Collection Rules (DCR) |
-| 💻 **Systems & Scripting** | Linux (Ubuntu), Bash, PowerShell Core, Python 3, PHP 8, REST API Architecture, Git Workflows |
+| 🔄 **CI/CD & GitOps** | Azure DevOps Pipelines, GitHub Actions, Secretless OIDC Workload Identity, Dynamic Matrix Path Runners, Environment Approval Gates |
+| 🛡️ **DevSecOps & Security** | Shift-Left Security, Checkov (CIS Microsoft Azure Benchmark), tfsec, Gitleaks, TruffleHog, TFLint, Trivy Vulnerability Scanning |
+| 🤖 **Agentic AI & SRE** | Model Context Protocol (MCP), LangGraph Cyclical Agents, Automated Alert Ingestion, GitOps Self-Healing Workflows |
+| ☸️ **Containers & Systems** | Docker, Linux (Ubuntu), Bash Scripting, PowerShell Core, REST API Architecture, Git Workflows |
 
 ---
 
-## 🔒 The Engineering Standard I Enforce
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  1. ZERO-TRUST IDENTITY: No static passwords or client secrets in CI   │
-│  2. IMMUTABLE IaC: All infrastructure versioned and drift-detected     │
-│  3. SHIFT-LEFT GATES: Checkov & Gitleaks block vulnerabilities at PR   │
-│  4. ARCHITECTURAL RIGOR: Every major design documented via an ADR      │
-│  5. AUTONOMOUS RESILIENCE: AI agents augment SRE for rapid MTTR triage │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Engineering Telemetry
+## 📈 Engineering Activity
 
 <div align="center">
 
@@ -425,29 +347,51 @@ Demonstrating the architectural rationale and risk-tradeoff evaluations applied 
 
 <div align="center">
 
-[![Public Repos](https://img.shields.io/badge/Public_Repos-15+-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
-[![Obsidian Notes](https://img.shields.io/badge/DevOps_Notes-174+-00FF66?style=for-the-badge&logo=obsidian&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
-[![Interview Scenarios](https://img.shields.io/badge/Architectural_Q%26A-400+-00E5FF?style=for-the-badge&logo=azuredevops&logoColor=0B0813)](https://github.com/MihirMaurya-dev/DevOps-Notes)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-13+-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev?tab=repositories)
+[![Azure CAF Compliant](https://img.shields.io/badge/Azure_CAF-Compliant-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)
+[![Zero-Trust IaC](https://img.shields.io/badge/Zero--Trust-Modular_IaC-00FF66?style=for-the-badge&logo=terraform&logoColor=0B0813)](https://github.com/MihirMaurya-dev/Master_PipeLine)
 [![Location](https://img.shields.io/badge/Location-India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mihirmaurya-dev.github.io/)
 
 </div>
 
 ---
 
+## 🗂️ Public Repository Directory
+
+A comprehensive index of cloud infrastructure repositories, security scanners, and automation frameworks maintained across this profile:
+
+| Repository & Focus | Architectural Scope | Core Tooling | Quality & Security Gate |
+|:---|:---|:---|:---:|
+| 🕸️ **[`azure-hub-spoke-architecture`](https://github.com/MihirMaurya-dev/azure-hub-spoke-architecture)** | Multi-Tenant Hub-and-Spoke Network Topology | Terraform, Bastion, VNet Peering | `Checkov CIS Gate` 🟢 |
+| 🤖 **[`Master_PipeLine`](https://github.com/MihirMaurya-dev/Master_PipeLine)** | Monorepo Dynamic Matrix CI/CD Bot & Pre-Commit | GitHub Actions, Infracost, Pre-Commit | `Dynamic Matrix` 🟢 |
+| 🛡️ **[`master-devsecops-pipeline`](https://github.com/MihirMaurya-dev/master-devsecops-pipeline)** | 4-Stage CI/CD Pipeline & Predictive FinOps | Azure DevOps, Gitleaks, tfsec, Trivy | `Azure Prices API` 🟢 |
+| 🏛️ **[`azure-caf-modular-iac`](https://github.com/MihirMaurya-dev/azure-caf-modular-iac)** | Modular Azure Infrastructure & Multi-Tier Blueprints | Terraform Modules, Bastion, NAT GW | `Decoupled States` 🟢 |
+| 🤖 **[`agentic-ai-devops`](https://github.com/MihirMaurya-dev/agentic-ai-devops)** | Autonomous Incident Triage & SRE Tooling | Model Context Protocol, LangGraph | `Self-Healing PR` 🟢 |
+| 🛡️ **[`genesis-iac-security-framework`](https://github.com/MihirMaurya-dev/genesis-iac-security-framework)** | Custom Gitleaks Secret Detection & TFLint Suite | Custom Regex Rules, Terraform, TFLint | `Pre-Commit Gate` 🟢 |
+| ⚡ **[`azure-devops-iis-automation`](https://github.com/MihirMaurya-dev/azure-devops-iis-automation)** | Self-Hosted Agent Pipeline & Automated IIS Site | .NET Core, Cobertura, PowerShell | `Coverage Gate` 🟢 |
+| 🏢 **[`axion-enterprise-infra`](https://github.com/MihirMaurya-dev/axion-enterprise-infra)** | 3-Tier Web/App/Database Production Architecture | Ubuntu Linux VMs, Segmented Subnets | `GitHub Actions CI` 🟢 |
+| 🔄 **[`PipeLine`](https://github.com/MihirMaurya-dev/PipeLine)** | Azure Infrastructure Terraform CI/CD Automation Engine | GitHub Actions, Checkov, TFLint | `CI/CD Passing` 🟢 |
+| 📦 **[`Terraform`](https://github.com/MihirMaurya-dev/Terraform)** | Production Azure IaC Library & Load Balancers | Modular Terraform, Azure VNets | `Modular IaC` 🟢 |
+| 🚀 **[`CI-CD`](https://github.com/MihirMaurya-dev/CI-CD)** | Continuous Integration & Deployment Pipeline Workflows | GitHub Actions, Azure IaC | `Automated CI` 🟢 |
+| 🏋️ **[`FlexZone`](https://github.com/MihirMaurya-dev/FlexZone)** | High-Performance Workout Engine & REST API | PHP 8, MySQL, Cloudflare Edge | `Cloudflare Edge` 🟢 |
+| 🌐 **[`MihirMaurya-dev.github.io`](https://github.com/MihirMaurya-dev/MihirMaurya-dev.github.io)** | Official Cloud & DevSecOps Engineer Portfolio Website | HTML5, CSS3, Modern JavaScript | `Static Edge Deploy` 🟢 |
+
+---
+
 ## 🤝 Let's Connect
 
-I am actively open to full-time opportunities regarding **DevSecOps Engineer**, **Cloud Solutions Architect**, and **Agentic AI Systems** roles.
+I am actively open to opportunities regarding **Cloud & DevSecOps Engineer** roles.
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mihirmaurya--dev.github.io-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mihirmaurya-dev.github.io/)
-[![Live Project](https://img.shields.io/badge/Live_Project-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
+[![Live Platform](https://img.shields.io/badge/Live_Platform-b18g119.online-00FF66?style=for-the-badge&logo=cloudflare&logoColor=0B0813)](https://b18g119.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Mihir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirmauryaa1)
-[![Instagram](https://img.shields.io/badge/Instagram-@mihirmauryaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mihirmauryaa/)
-[![DevOps Vault](https://img.shields.io/badge/Obsidian-Explore_DevOps_Notes-9D4EDD?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/MihirMaurya-dev/DevOps-Notes)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Mihir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirMaurya-dev)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhotuverma2238@gmail.com)
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="Mihir Maurya Control Plane" width="100%" />
+<img src="./assets/footer.svg" alt="Mihir Maurya Engineering Footer" width="100%" />
 
 </div>
